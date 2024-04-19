@@ -38,9 +38,6 @@
         }
         return $path;
     }
-    $text = "9852865078";
-    $arr = Find_Information(Get_Path($text), $text);
-    print_r($arr);
 
 
 
